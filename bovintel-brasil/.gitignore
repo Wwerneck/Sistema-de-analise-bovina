@@ -10,6 +10,7 @@ data/external/*
 outputs/figures/*
 outputs/tables/*
 outputs/models/*
+captures/*.png
 !**/.gitkeep
 dashboard/data/*.json
 !dashboard/data/bovintel_dashboard.json
